@@ -1,16 +1,16 @@
-# Pygame Maze Generator and Solver
+# Maze Solver
 
-This project provides a simple maze generator and solver using Pygame. The maze generation is based on Kruskal's algorithm, and it includes both A* and Dijkstra's algorithms for solving.
+This project provides a solution for generating and solving mazes using the Python Pygame library. Various algorithms are implemented to find the shortest path from the start to the end of the maze.
 
-## Dependencies
+## Requirements
 
 - Python
 - Pygame
 - Numpy
-
+  
 ## Installation
 
-1. Install Python from [Python's official website](https://www.python.org/downloads/).
-2. Install the required Python packages using pip:
-   ```bash
-   pip install pygame numpy
+Before running the project, ensure you have Python and pip installed. After which, install the required libraries.
+
+```powershell
+pip install pygame numpy
